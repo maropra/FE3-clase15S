@@ -1,8 +1,8 @@
-import { Route, Switch } from 'react-router';
-import './styles/App.css';
-import Home from './components/Home';
-import Gatos from './components/Gatos';
-import Perros from './components/Perros';
+import { Route, Switch } from "react-router";
+import "./styles/App.css";
+import Home from "./components/Home";
+import Gatos from "./components/Gatos";
+import Perros from "./components/Perros";
 
 function App() {
   return (
